@@ -117,6 +117,6 @@ python crawler.py
 
 ## Licence
 
-MIT © 2025 Gouvernement de la Nouvelle-Calédonie (DINUM)
+MIT © 2025
 
 ---
